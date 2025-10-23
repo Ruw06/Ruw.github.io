@@ -1,0 +1,27 @@
+
+
+
+.floatright { float: right; 
+              border: 5.5px solid rgb(255, 255, 255);}
+
+.floatleft {float: left; }
+
+.nofloat { clear: both; }
+
+.table, .table td, .table tr { border: 3px solid rgb(255, 255, 255); }
+
+th {color: rgb(220, 233, 42);}
+
+.header { color:  rgb(220, 233, 42); font-family: Segoe UI; font-size: 35px; }
+
+.subheader { color: rgb(220, 233, 42); font-family: Segoe UI; font-size: 35px; }
+
+body { background: rgb(92, 163, 255); }
+
+p, h1, table, ul, style { margin: 15px; }
+
+.custom-font, tr {
+  font-family: Verdana;
+  font-size: 16px;
+  font-weight: lighter;
+}
